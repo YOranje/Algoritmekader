@@ -25,7 +25,7 @@ De levenscyclus helpt je om te bepalen wat je wanneer moet doen.
   <li> <a href="ontwerp/">Ontwerp</a></li>
   <li> <a href="dataverkenning-en-datapreparatie/">Dataverkenning en datapreparatie</a></li>
   <li> <a href="ontwikkelen/">Ontwikkelen</a></li>
-  <li> <a href="verificatie-en-validatie/">Verficatie en validatie</a></li>
+  <li> <a href="verificatie-en-validatie/">Verificatie en validatie</a></li>
   <li> <a href="implementatie/">Implementeren</a></li>
   <li> <a href="monitoring-en-beheer/">Monitoring en beheer</a></li>
   <li> <a href="uitfaseren/">Uitfaseren</a></li>
